@@ -1,0 +1,24 @@
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\bin\Debug\SpaceShip Controller.exe
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\bin\Debug\SpaceShip Controller.pdb
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\bin\Debug\SpaceShip Controller.xml
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\SpaceShip Controller.exe
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\SpaceShip Controller.xml
+C:\Documents and Settings\CTECH 9\my documents\visual studio 2010\Projects\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\SpaceShip Controller.pdb
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\bin\Debug\SpaceShip Controller.exe
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\bin\Debug\SpaceShip Controller.pdb
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\bin\Debug\SpaceShip Controller.xml
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\SpaceShip Controller.vbprojResolveAssemblyReference.cache
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\WindowsApplication1.Form1.resources
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\WindowsApplication1.Form2.resources
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\WindowsApplication1.Resources.resources
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\SpaceShip Controller.vbproj.GenerateResource.Cache
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\SpaceShip Controller.vbproj.CoreCompileInputs.cache
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\SpaceShip Controller.exe
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\SpaceShip Controller.xml
+N:\VB Project\SpaceShip Controller\SpaceShip Controller\obj\x86\Debug\SpaceShip Controller.pdb
