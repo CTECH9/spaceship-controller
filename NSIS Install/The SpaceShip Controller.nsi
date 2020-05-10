@@ -1,15 +1,15 @@
 ############################################################################################
-#      NSIS Installation Script created by NSIS Quick Setup Script Generator v1.09.18      #
-#               Entirely Edited with NullSoft Scriptable Installation System               # 
-#              by Vlasis K. Barkas aka Red Wine red_wine@freemail.gr Sep 2006              # 
+#      NSIS Installation Script created by NSIS Quick Setup Script Generator v1.09.18
+#               Entirely Edited with NullSoft Scriptable Installation System                
+#              by Vlasis K. Barkas aka Red Wine red_wine@freemail.gr Sep 2006               
 ############################################################################################
 
 !define APP_NAME "The SpaceShip Controller"
 !define COMP_NAME "CTECH 9"
 !define WEB_SITE "drummer1074.wixsite.com/ctech9-official"
-!define VERSION "00.00.00.00"
-!define COPYRIGHT "Author  ï¿½ 2006"
-!define DESCRIPTION "Application"
+!define VERSION "1.2.00.00"
+!define COPYRIGHT "CTECH 9 © 2020"
+!define DESCRIPTION "The SpaceShip Controller"
 !define LICENSE_TXT "C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\NSIS Install\File Structure\Program Files\License.txt"
 !define INSTALLER_NAME "C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\NSIS Install\setup.exe"
 !define MAIN_APP_EXE "SpaceShip Controller.exe"

@@ -1,14 +1,14 @@
 ############################################################################################
-#      NSIS Installation Script created by NSIS Quick Setup Script Generator v1.09.18
-#               Entirely Edited with NullSoft Scriptable Installation System                
-#              by Vlasis K. Barkas aka Red Wine red_wine@freemail.gr Sep 2006               
+#      NSIS Installation Script created by NSIS Quick Setup Script Generator v1.09.18      #
+#               Entirely Edited with NullSoft Scriptable Installation System               # 
+#              by Vlasis K. Barkas aka Red Wine red_wine@freemail.gr Sep 2006              # 
 ############################################################################################
 
 !define APP_NAME "The SpaceShip Controller"
 !define COMP_NAME "CTECH 9"
 !define WEB_SITE "drummer1074.wixsite.com/ctech9-official"
 !define VERSION "00.00.00.00"
-!define COPYRIGHT "Author  © 2006"
+!define COPYRIGHT "Author  ï¿½ 2006"
 !define DESCRIPTION "Application"
 !define LICENSE_TXT "C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\NSIS Install\File Structure\Program Files\License.txt"
 !define INSTALLER_NAME "C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\NSIS Install\setup.exe"
@@ -83,13 +83,9 @@ ${INSTALL_TYPE}
 SetOverwrite ifnewer
 SetOutPath "$INSTDIR"
 File "C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\VB Solution\SpaceShip Controller\bin\Release\SpaceShip Controller.exe"
+File "C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\NSIS Install\File Structure\Program Files\enginestart.wav"
+File "C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\NSIS Install\File Structure\Program Files\enginestop.wav"
 File "C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\NSIS Install\File Structure\Program Files\License.txt"
-SectionEnd
-
-######################################################################
-
-Section -Additional
-SetOutPath "$TEMP\${APP_NAME}"
 SectionEnd
 
 ######################################################################
@@ -137,6 +133,8 @@ SectionEnd
 Section Uninstall
 ${INSTALL_TYPE}
 Delete "$INSTDIR\${MAIN_APP_EXE}"
+Delete "$INSTDIR\enginestart.wav"
+Delete "$INSTDIR\enginestop.wav"
 Delete "$INSTDIR\License.txt"
 Delete "$INSTDIR\uninstall.exe"
 !ifdef WEB_SITE
@@ -144,11 +142,6 @@ Delete "$INSTDIR\${APP_NAME} website.url"
 !endif
 
 RmDir "$INSTDIR"
-
-!ifndef NEVER_UNINSTALL
- 
-RmDir "$TEMP\${APP_NAME}"
-!endif
 
 !ifdef REG_START_MENU
 !insertmacro MUI_STARTMENU_GETFOLDER "Application" $SM_Folder
