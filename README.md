@@ -1,2 +1,1 @@
-This GitHub Repository contains Visual Studio 2017 solutions, which you can download, edit, and submit any changes to me at 
-ctech9suggestions@gmail.com. I can also send you a beta if I am in the process of making one. If you want the setup executable, go to drummer1074.wixsite.com/codingwithchris-1.
+Thanks for visiting my github repository! Here you can download the NSIS scripts, and the VB source files. This was built in Visual Studio 2017 Community Edition, so make sure you've downloaded and installed that. Thanks!
