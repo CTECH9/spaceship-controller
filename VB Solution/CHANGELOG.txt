@@ -1,0 +1,13 @@
+CTECH 9's SpaceShip Controller Changelog
+
+v1.3-
+Moved back to 32-bit, fixed sounds, added about page.
+
+v1.2-
+Moved to 64-bit only, changed sounds location.
+
+v1.1-
+Minor bug fixes.
+
+v1.0-
+Initial release.
