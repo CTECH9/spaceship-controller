@@ -16,3 +16,21 @@ C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\VB Solution\SpaceShip Contr
 C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.TrustInfo.xml
 C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.exe.manifest
 C:\Users\drumm\Documents\GitHub\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.application
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\bin\Release\SpaceShip Controller.exe.manifest
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\bin\Release\SpaceShip Controller.application
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\bin\Release\SpaceShip Controller.exe
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\bin\Release\SpaceShip Controller.pdb
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\bin\Release\SpaceShip Controller.xml
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.vbprojAssemblyReference.cache
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\WindowsApplication1.Form2.resources
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\WindowsApplication1.Form4.resources
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.vbproj.GenerateResource.cache
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.vbproj.CoreCompileInputs.cache
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.TrustInfo.xml
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.exe.manifest
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.application
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.exe
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.xml
+C:\GitHub Repos\SpaceShip-Controller\VB Solution\SpaceShip Controller\obj\x86\Release\SpaceShip Controller.pdb

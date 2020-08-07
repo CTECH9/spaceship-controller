@@ -8,6 +8,7 @@
     Dim Afterburners As Integer = 0
     Dim Autopilot As Integer = 0
     Dim Engine As Integer = 0
+
     Private Sub Form1_Load(sender As System.Object, e As System.EventArgs) Handles MyBase.Load
 
         Form2.Hide()

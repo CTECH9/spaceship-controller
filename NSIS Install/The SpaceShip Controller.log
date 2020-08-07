@@ -1,0 +1,23 @@
+Processing config: C:\Program Files (x86)\NSIS\nsisconf.nsh
+Processing script file: "C:\Users\drumm\AppData\Local\Temp\nsc20FB.tmp" (ACP)
+
+Processed 1 file, writing output (x86-ansi):
+warning 7998: ANSI targets are deprecated
+
+Output: "C:\GitHub Repos\SpaceShip-Controller\NSIS Install\Output\The SpaceShip Controller\The SpaceShip Controller v1.4 Setup.exe"
+Install: 4 pages (256 bytes), 2 sections (1 required) (4144 bytes), 384 instructions (10752 bytes), 528 strings (36092 bytes), 8 language tables (2352 bytes).
+Uninstall: 3 pages (256 bytes), 1 section (2072 bytes), 309 instructions (8652 bytes), 498 strings (13240 bytes), 8 language tables (2288 bytes).
+Datablock optimizer saved 2237 bytes (~0.0%).
+
+Using zlib compression.
+
+EXE header size:               54784 / 38400 bytes
+Install code:                  17047 / 52012 bytes
+Install data:                4468661 / 6401091 bytes
+Uninstall code+data:           37496 / 41817 bytes
+CRC (0x6B85484F):                  4 / 4 bytes
+
+Total size:                  4577992 / 6533324 bytes (70.0%)
+
+1 warning:
+  7998: ANSI targets are deprecated

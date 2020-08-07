@@ -1,0 +1,15 @@
+CHANGELOG
+v1.4
+Added missle count, fixed minor grammaticl errors
+
+v1.3
+Went back to 32-bit, reverted sound file locations,  
+
+v1.2
+Went to 64-bit only (idk why), changed sound file location
+
+v1.1
+Bug fixes
+
+v1.0
+Initial release
